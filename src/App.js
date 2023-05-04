@@ -1,5 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Product from "./components/Product"
 import Cart from "./components/Cart"
 import Dashboard from "./components/Dashboard"
 import RootLayout from "./components/RootLayout"
